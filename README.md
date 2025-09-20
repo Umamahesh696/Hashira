@@ -1,4 +1,4 @@
-Hashira Placements Assignment - Polynomial Secret Finder
+Hashira Placement Assignment - Polynomial Secret Finder
 Project Overview
 
 This Java program reads a JSON file containing points from a polynomial and computes the secret constant (c) of the polynomial using Lagrange interpolation.
